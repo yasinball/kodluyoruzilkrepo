@@ -28,3 +28,5 @@ Pull requestler kabul edilebilir.Büyük değişiklikler için lütfen önce ney
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+![İLKFOTO](image.png)
